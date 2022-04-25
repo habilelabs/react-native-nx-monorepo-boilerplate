@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "projects": {
+    "models": "libs/models",
+    "react-native-app": "apps/react-native-app",
+    "react-native-app-e2e": "apps/react-native-app-e2e",
+    "reactjs-web-app": "apps/reactjs-web-app",
+    "reactjs-web-app-e2e": "apps/reactjs-web-app-e2e"
+  }
+}
